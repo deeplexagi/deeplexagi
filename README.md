@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm bobo 👋
 
 I'm a **Full-Stack Developer** who is **all in on AI**.
 
@@ -27,5 +27,4 @@ My work focuses on building end-to-end, AI-driven applications. I'm passionate a
 ### 📫 How to Reach Me
 
 * **Email:** `deeplexagi@gmail.com`
-* **LinkedIn:** `https://linkedin.com/in/your-profile`
-* **Website/Blog:** `https://your-blog.com`
+* **Website/Blog:** `[https://your-blog.com](https://www.ccici.cc/)`
